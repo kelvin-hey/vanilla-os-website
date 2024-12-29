@@ -210,6 +210,11 @@
         max-width: 100%;
     }
 
+    /* Fix image flickering on mobile */
+    #access .hero-image { 
+        width: 900px;
+    }
+
     .hero.hero--bg-center .hero-wrapper {
         padding: 0;
     }
