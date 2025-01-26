@@ -308,7 +308,7 @@ export default defineComponent({
                     icon: 'smart_display',
                     iconPack: 'mdi',
                     title: 'Desse jeito vou precisar aprender Linux de novo - Diolinux',
-                    description: "The portuguese Linux influencer DioLinux talked about Vanilla OS 2 Orchid, the upcoming release of Vanilla OS.",
+                    description: "The Brazilian Linux influencer DioLinux talked about Vanilla OS 2 Orchid, the upcoming release of Vanilla OS.",
                     badges: [
                         {
                             text: 'Portuguese',
@@ -326,7 +326,7 @@ export default defineComponent({
                     icon: 'smart_display',
                     iconPack: 'mdi',
                     title: 'Consigo me ver usando isso! | Vanilla OS 22.10 Review - Diolinux',
-                    description: "The portuguese Linux influencer DioLinux reviewed Vanilla OS 22.10 and he liked it a lot.",
+                    description: "The Brazilian Linux influencer DioLinux reviewed Vanilla OS 22.10 and he liked it a lot.",
                     badges: [
                         {
                             text: 'Portuguese',
